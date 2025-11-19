@@ -9,6 +9,16 @@
 
 **moveTheSquare** is a simple project built using [Construct 3](https://www.construct.net/) Illustrating the use of the *Touch Screen* design for mobile games.
 
+<p align="center">
+  <a href="https://hielo777.github.io/moveTheSquare/">
+    <img src="demoScreenshot.png" alt="Move the Square game in Construct 3" />
+  </a>
+  <br />
+  <a href="https://hielo777.github.io/moveTheSquare/">
+    <sub>Click here to try the demo >></sub>
+  </a>
+</p>
+
 ---
 
 <details>
