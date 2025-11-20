@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://hielo777.github.io/moveTheSquare/">
-    <img src="demoScreenshot.png" alt="Move the Square game in Construct 3" />
+    <img src="demoGif.gif" alt="Move the Square game in Construct 3" />
   </a>
   <br />
   <a href="https://hielo777.github.io/moveTheSquare/">
