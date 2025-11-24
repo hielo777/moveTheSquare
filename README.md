@@ -21,6 +21,21 @@
 
 ---
 
+ ## ⚙️ How it works:
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;Template Game Logic <small>(Click here for full explanation)</small></summary>
+
+- Your goal is to move the square to collect stars and earn points.
+- Each time the square touches a star, it gains a new random color.
+- The square can destroy only the balls that match its current color.
+- If it hits a ball of a different color, you lose a life.
+- Collect as many stars as possible and survive as long as you can to achieve a high score.
+
+</details>
+
+---
+
 <details>
 <summary> 📥 How to Use / Run </summary>
 
